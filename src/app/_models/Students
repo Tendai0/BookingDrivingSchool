@@ -1,0 +1,7 @@
+export interface Student {
+    studentID: number;
+    name: string;
+    email: string;
+    contactInformation: string;
+    registrationDate: Date;
+}
